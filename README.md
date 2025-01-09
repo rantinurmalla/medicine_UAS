@@ -468,3 +468,7 @@ CREATE TABLE `users` (
     </body>
     </html>
    ```
+Untuk menampilkan hasilnya kita harus mengaktifkan Apache dan juga MySQL pada aplikasi XAMPP, lalu pada Web Browser ketik `http://localhost/uas_medicine` pada bar pencarian.
+Maka akan menampilkan halaman login
+username : rantinurmalla
+password : admin
